@@ -9694,7 +9694,7 @@
         v = u((0, e.useState)(null), 2),
         g = v[0],
         y = v[1],
-        b = "http://localhost:3000/login",
+        b = "https://social-sync-dev.netlify.app/login",
         w = (function () {
           var e,
             t =
@@ -9726,7 +9726,7 @@
                             (e.prev = 8),
                             (e.next = 11),
                             fetch(
-                              "http://localhost:8000/users/reset-password",
+                              "https://social-sync-server.onrender.com/users/reset-password",
                               {
                                 method: "POST",
                                 headers: { "Content-Type": "application/json" },
