@@ -1,6 +1,6 @@
 # Social Sync - A Social Media Platform
 
-<p align="center">
+<p align="center"> 
   <img src="https://github.com/D-4-DIBAKAR/SocialSync/assets/71878062/5f3725b9-e32e-4326-b3f1-346a157055a0.png" alt="Social Sync Logo" width="200">
 </p>
 
