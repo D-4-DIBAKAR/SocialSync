@@ -3,7 +3,7 @@
 <p align="center"> 
   <img src="https://github.com/D-4-DIBAKAR/SocialSync/assets/71878062/5f3725b9-e32e-4326-b3f1-346a157055a0.png" alt="Social Sync Logo" width="200">
 </p>
-
+ 
 Social Sync is a dynamic social media platform enabling users to connect, share moments, and engage with their network. Developed on the MERN stack (MongoDB, Express.js, React, Node.js), it leverages Cloudinary for seamless media storage.
 
 ## Features
