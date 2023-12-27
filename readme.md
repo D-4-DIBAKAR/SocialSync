@@ -20,7 +20,7 @@ Social Sync is a dynamic social media platform enabling users to connect, share 
 - **Cloudinary Integration:** Seamlessly upload and store media content using Cloudinary.
 
 ## Tech Stack
-
+ 
 - **Frontend:**
 
   - React
